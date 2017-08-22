@@ -1,0 +1,11 @@
+C:\Users\Anurag\documents\visual studio 2012\Projects\nghm\nghm\bin\nghm.dll
+C:\Users\Anurag\documents\visual studio 2012\Projects\nghm\nghm\bin\nghm.pdb
+C:\Users\Anurag\documents\visual studio 2012\Projects\nghm\nghm\obj\Debug\NGHM.csprojResolveAssemblyReference.cache
+C:\Users\Anurag\documents\visual studio 2012\Projects\nghm\nghm\obj\Debug\nghm.dll
+C:\Users\Anurag\documents\visual studio 2012\Projects\nghm\nghm\obj\Debug\nghm.pdb
+C:\Users\ISRO\VS-WS\VSNGHM\nghm\bin\nghm.dll.config
+C:\Users\ISRO\VS-WS\VSNGHM\nghm\bin\nghm.dll
+C:\Users\ISRO\VS-WS\VSNGHM\nghm\bin\nghm.pdb
+C:\Users\ISRO\VS-WS\VSNGHM\nghm\obj\Debug\NGHM.csprojResolveAssemblyReference.cache
+C:\Users\ISRO\VS-WS\VSNGHM\nghm\obj\Debug\nghm.dll
+C:\Users\ISRO\VS-WS\VSNGHM\nghm\obj\Debug\nghm.pdb

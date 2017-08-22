@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="NGHM.ActivityService" CodeBehind="ActivityService.svc.cs" %>
